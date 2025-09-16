@@ -1,0 +1,27 @@
+date,description,amount,type,reference,description_clean,category,AmountValue,Amount,source,is_credit_card,AccountType
+2025-08-10,Fuel Trxn Onus,-21.25,Credit,11760327291,fuel trxn onus,Fuel,-21.25,₹-21.25,ICICI_CreditCard,True,CreditCard
+2025-08-10,IGST-Rev-CI@18%,-3.83,Credit,11760327293,igstrevci18,Other,-3.83,₹-3.83,ICICI_CreditCard,True,CreditCard
+2025-08-09,"CHOUDHARY AISHI RAM BA, DELHI, IND",2124.78,Debit,11760327288,choudhary aishi ram ba delhi ind,Other,2124.78,"₹2,124.78",ICICI_CreditCard,True,CreditCard
+2025-08-06,"GWALIA SWEETS PVT LTD, AHMEDABAD, IND",1370.0,Debit,11743243204,gwalia sweets pvt ltd ahmedabad ind,Food,1370.0,"₹1,370.00",ICICI_CreditCard,True,CreditCard
+2025-08-06,"BATA INDIA LIMITED, AHMEDABAD, IND",1199.0,Debit,11746451271,bata india limited ahmedabad ind,Shopping,1199.0,"₹1,199.00",ICICI_CreditCard,True,CreditCard
+2025-08-04,Fuel Trxn Off us,-2.02,Credit,11725987429,fuel trxn off us,Fuel,-2.02,₹-2.02,ICICI_CreditCard,True,CreditCard
+2025-08-03,"GWALIA SWEETS PVT LTD, AHMEDABAD, IND",620.0,Debit,11725756098,gwalia sweets pvt ltd ahmedabad ind,Food,620.0,₹620.00,ICICI_CreditCard,True,CreditCard
+2025-08-03,"SADHIMA PETROLEUM, AHMEDABAD, IND",202.36,Debit,11725928162,sadhima petroleum ahmedabad ind,Fuel,202.36,₹202.36,ICICI_CreditCard,True,CreditCard
+2025-08-03,"LOLIPOP, GANDHINAGAR, IND",990.0,Debit,11725826416,lolipop gandhinagar ind,Other,990.0,₹990.00,ICICI_CreditCard,True,CreditCard
+2025-08-03,"MALABAR GOLD AND DIAMO, AHMEDABAD, IND",23500.0,Debit,11725860960,malabar gold and diamo ahmedabad ind,Other,23500.0,"₹23,500.00",ICICI_CreditCard,True,CreditCard
+2025-08-03,"SHAILESHKUMAR JIVANLAL, AHMEDABAD, IND",2921.0,Debit,11729502306,shaileshkumar jivanlal ahmedabad ind,Other,2921.0,"₹2,921.00",ICICI_CreditCard,True,CreditCard
+2025-08-01,"INFINITY PAYMENT RECEIVED, THANK YOU",-70688.58,Credit,11711575939,infinity payment received thank you,Other,-70688.58,"₹-70,688.58",ICICI_CreditCard,True,CreditCard
+2025-08-01,Fuel Trxn Off us,-21.25,Credit,11707334683,fuel trxn off us,Fuel,-21.25,₹-21.25,ICICI_CreditCard,True,CreditCard
+2025-07-31,"SHINDE PETROLEUM, Pune, IND",2124.78,Debit,11707323080,shinde petroleum pune ind,Fuel,2124.78,"₹2,124.78",ICICI_CreditCard,True,CreditCard
+2025-07-27,"INFASICS INDIA PVT LT, httpswwwa, IND",7799.0,Debit,11684526513,infasics india pvt lt httpswwwa ind,Other,7799.0,"₹7,799.00",ICICI_CreditCard,True,CreditCard
+2025-07-26,"5473 Hybrid SF by PG, PUNE, IND",862.0,Debit,11679550748,5473 hybrid sf by pg pune ind,Other,862.0,₹862.00,ICICI_CreditCard,True,CreditCard
+2025-07-25,Fuel Trxn Off us,-21.25,Credit,11669887770,fuel trxn off us,Fuel,-21.25,₹-21.25,ICICI_CreditCard,True,CreditCard
+2025-07-24,"SHINDE PETROLEUM, Pune, IND",2124.78,Debit,11669863920,shinde petroleum pune ind,Fuel,2124.78,"₹2,124.78",ICICI_CreditCard,True,CreditCard
+2025-07-21,"ALLEN CAREER INSTITUTE, KOTA, IND",30000.0,Debit,11655099896,allen career institute kota ind,Other,30000.0,"₹30,000.00",ICICI_CreditCard,True,CreditCard
+2025-07-19,IGST-Rev-CI@18%,-6.26,Credit,11637229415,igstrevci18,Other,-6.26,₹-6.26,ICICI_CreditCard,True,CreditCard
+2025-07-19,Fuel Trxn Onus,-34.79,Credit,11637229413,fuel trxn onus,Fuel,-34.79,₹-34.79,ICICI_CreditCard,True,CreditCard
+2025-07-18,"SHRI SWAMI PETROL PUMP, PUNE, IND",3479.0,Debit,11637229412,shri swami petrol pump pune ind,Fuel,3479.0,"₹3,479.00",ICICI_CreditCard,True,CreditCard
+2025-07-13,"SHOPPERS STOP LTD, PUNE, IND",1329.41,Debit,11609560977,shoppers stop ltd pune ind,Shopping,1329.41,"₹1,329.41",ICICI_CreditCard,True,CreditCard
+2025-07-13,"INFINITY PAYMENT RECEIVED, THANK YOU",-35397.87,Credit,11603554782,infinity payment received thank you,Other,-35397.87,"₹-35,397.87",ICICI_CreditCard,True,CreditCard
+2025-07-12,"3M CAR CARE, PUNE, IND",22081.0,Debit,11603021970,3m car care pune ind,Other,22081.0,"₹22,081.00",ICICI_CreditCard,True,CreditCard
+2025-07-11,"BOOKMYSHOW, MUMBAI, IND",972.16,Debit,11595210345,bookmyshow mumbai ind,Entertainment,972.16,₹972.16,ICICI_CreditCard,True,CreditCard

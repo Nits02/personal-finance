@@ -1,0 +1,45 @@
+{
+  "bank": {
+    "total_income": 0.0,
+    "total_expenses": 115941.1,
+    "total_savings": -115941.1,
+    "net_cash_flow": -115941.1,
+    "monthly_breakdown": {
+      "income": {
+        "2025-01": 0.0,
+        "2025-02": 0.0,
+        "2025-03": 0.0,
+        "2025-04": 0.0,
+        "2025-05": 0.0,
+        "2025-07": 0.0,
+        "2025-08": 0.0,
+        "2025-12": 0.0
+      },
+      "expense": {
+        "2025-01": 5.0,
+        "2025-02": 3192.26,
+        "2025-03": 106881.51,
+        "2025-04": 5.0,
+        "2025-05": 5.0,
+        "2025-07": 220.93,
+        "2025-08": 4791.41,
+        "2025-12": 839.99
+      }
+    },
+    "top_5_spending_categories": {
+      "Other": 110963.09999999999,
+      "Shopping": 3307.0,
+      "Travel": 1671.0
+    },
+    "recurring_payments": {
+      "('Card Charges paid with Points', 'Other')": 6,
+      "('Paytm*UBERINDIASYSTEMSP Noida', 'Travel')": 6,
+      "('of', 'Other')": 5
+    }
+  },
+  "credit_card": {
+    "total_spend_by_category": {},
+    "payments": 0.0,
+    "average_monthly_spend": 0.0
+  }
+}

@@ -1,0 +1,30 @@
+import pandas as pd
+from src.parsers.icici_savings_bank_statement_parser import ICICISavingsBankStatementParser
+from src.standardizer import standardize_transactions
+import pdfplumber
+from src.extract_utils import save_extracted_text
+import os
+
+def extract_text_from_pdf(pdf_path):
+	text = ""
+	with pdfplumber.open(pdf_path) as pdf:
+		for page in pdf.pages:
+			page_text = page.extract_text()
+			if page_text:
+				text += page_text + "\n"
+	return text
+
+def main():
+	pdf_path = "data/raw/2025/08/icici/bank/ICICI August Statement.pdf"
+	if not os.path.exists(pdf_path):
+		print(f"File not found: {pdf_path}")
+		return
+	text = extract_text_from_pdf(pdf_path)
+	temp_txt_path = save_extracted_text(pdf_path, text)
+	parser = ICICISavingsBankStatementParser(temp_txt_path)
+	df = parser.parse()
+	df_std = standardize_transactions(df, source="ICICI Bank", is_credit_card=False)
+	print(df_std.to_string(index=False))
+
+if __name__ == "__main__":
+	main()

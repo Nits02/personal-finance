@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+pdfplumber
+jupyter
+pytest
+streamlit
+
+
+plotly

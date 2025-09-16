@@ -1,0 +1,12 @@
+{
+  "income": 12673528.67,
+  "expenses": -516904.62,
+  "savings": 13190433.29,
+  "monthly": {
+    "2025-08": 12156624.05
+  },
+  "top_spending_categories": {
+    "Other": -516904.62
+  },
+  "recurring_payments": {}
+}

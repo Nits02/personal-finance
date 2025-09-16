@@ -1,0 +1,32 @@
+{
+  "bank": {
+    "total_income": 12740969.67,
+    "total_expenses": -516904.62,
+    "total_savings": 13257874.29,
+    "net_cash_flow": 13257874.29,
+    "monthly_breakdown": {
+      "income": {
+        "2025-08": 12740969.67
+      },
+      "expense": {
+        "2025-08": -516904.62
+      }
+    },
+    "top_5_spending_categories": {
+      "Other": -516904.62
+    },
+    "recurring_payments": {}
+  },
+  "credit_card": {
+    "total_spend_by_category": {
+      "Other": 95144.33999999998,
+      "Fuel": 7830.360000000001,
+      "Shopping": 5835.41,
+      "Food": 1990.0,
+      "Travel": 1671.0,
+      "Entertainment": 972.16
+    },
+    "payments": -106197.1,
+    "average_monthly_spend": 27455.05
+  }
+}

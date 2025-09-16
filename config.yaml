@@ -1,0 +1,13 @@
+data:
+  raw_dir: data/raw
+  processed_dir: data/processed
+logging:
+  level: INFO
+parsers:
+
+  icici_credit_card: icici_credit_card_parser.ICICICreditCardParser
+  icici_savings: icici_savings_bank_statement_parser.ICICISavingsBankStatementParser
+  axis_bank: axis_bank_statement_parser.AxisBankStatementParser
+  axis_credit_card: axis_bank_statement_parser.AxisBankStatementParser  # Update if separate
+  amex_credit_card: amex_credit_card_parser.AmexCreditCardParser
+  amex_bank: amex_credit_card_parser.AmexCreditCardParser  # Update if separate

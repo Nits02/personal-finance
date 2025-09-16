@@ -1,0 +1,17 @@
+{
+  "income": -106197.1,
+  "expenses": 103699.27000000002,
+  "savings": -209896.37000000002,
+  "monthly": {
+    "2025-07": 35311.96,
+    "2025-08": -37809.79
+  },
+  "top_spending_categories": {
+    "Other": 90277.78,
+    "Fuel": 7930.92,
+    "Shopping": 2528.41,
+    "Food": 1990.0,
+    "Entertainment": 972.16
+  },
+  "recurring_payments": {}
+}

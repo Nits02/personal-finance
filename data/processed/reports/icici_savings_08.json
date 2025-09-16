@@ -1,0 +1,25 @@
+{
+  "bank": {
+    "total_income": 12673528.67,
+    "total_expenses": -516904.62,
+    "total_savings": 13190433.29,
+    "net_cash_flow": 13190433.29,
+    "monthly_breakdown": {
+      "income": {
+        "2025-08": 12673528.67
+      },
+      "expense": {
+        "2025-08": -516904.62
+      }
+    },
+    "top_5_spending_categories": {
+      "Other": -516904.62
+    },
+    "recurring_payments": {}
+  },
+  "credit_card": {
+    "total_spend_by_category": {},
+    "payments": 0.0,
+    "average_monthly_spend": 0.0
+  }
+}

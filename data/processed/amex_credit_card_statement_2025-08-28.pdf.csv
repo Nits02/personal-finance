@@ -1,0 +1,29 @@
+date,description,amount,type,description_clean,category,AmountValue,Amount,source,is_credit_card,AccountType
+2025-01-08,of,5.0,Debit,of,Other,5.0,₹5.00,Amex_CreditCard,True,CreditCard
+2025-03-08,PAYMENT RECEIVED. THANK YOU,104169.26,Debit,payment received thank you,Other,104169.26,"₹104,169.26",Amex_CreditCard,True,CreditCard
+2025-02-08,Paytm*UBERINDIASYSTEMSP Noida,159.93,Debit,paytmuberindiasystemsp noida,Travel,159.93,₹159.93,Amex_CreditCard,True,CreditCard
+2025-02-08,IRCTC DELHI,1390.0,Debit,irctc delhi,Other,1390.0,"₹1,390.00",Amex_CreditCard,True,CreditCard
+2025-02-08,IRCTC DELHI,795.0,Debit,irctc delhi,Other,795.0,₹795.00,Amex_CreditCard,True,CreditCard
+2025-02-08,Billdesk*AMAZON MUM,803.0,Debit,billdeskamazon mum,Shopping,803.0,₹803.00,Amex_CreditCard,True,CreditCard
+2025-03-08,Paytm*UBERINDIASYSTEMSP Noida,26.26,Debit,paytmuberindiasystemsp noida,Travel,26.26,₹26.26,Amex_CreditCard,True,CreditCard
+2025-03-08,Billdesk*AMAZON MUM,2504.0,Debit,billdeskamazon mum,Shopping,2504.0,"₹2,504.00",Amex_CreditCard,True,CreditCard
+2025-03-08,Paytm*UBERINDIASYSTEMSP Noida,169.91,Debit,paytmuberindiasystemsp noida,Travel,169.91,₹169.91,Amex_CreditCard,True,CreditCard
+2025-07-08,Paytm*UBERINDIASYSTEMSP Noida,220.93,Debit,paytmuberindiasystemsp noida,Travel,220.93,₹220.93,Amex_CreditCard,True,CreditCard
+2025-02-08,of,5.0,Debit,of,Other,5.0,₹5.00,Amex_CreditCard,True,CreditCard
+2025-08-08,Paytm*UBERINDIASYSTEMSP Noida,253.98,Debit,paytmuberindiasystemsp noida,Travel,253.98,₹253.98,Amex_CreditCard,True,CreditCard
+2025-12-08,Paytm*UBERINDIASYSTEMSP Noida,839.99,Debit,paytmuberindiasystemsp noida,Travel,839.99,₹839.99,Amex_CreditCard,True,CreditCard
+2025-02-08,REVERSAL OF 1.8% FEE ON RAIL TICKETS,25.02,Debit,reversal of 18 fee on rail tickets,Other,25.02,₹25.02,Amex_CreditCard,True,CreditCard
+2025-02-08,REVERSAL OF 1.8% FEE ON RAIL TICKETS,14.31,Debit,reversal of 18 fee on rail tickets,Other,14.31,₹14.31,Amex_CreditCard,True,CreditCard
+2025-03-08,GST/IGST@18% REVERSED,4.5,Debit,gstigst18 reversed,Other,4.5,₹4.50,Amex_CreditCard,True,CreditCard
+2025-03-08,GST/IGST@18% REVERSED,2.58,Debit,gstigst18 reversed,Other,2.58,₹2.58,Amex_CreditCard,True,CreditCard
+2025-08-15,Card Charges paid with Points,839.99,Debit,card charges paid with points,Other,839.99,₹839.99,Amex_CreditCard,True,CreditCard
+2025-08-15,Card Charges paid with Points,253.98,Debit,card charges paid with points,Other,253.98,₹253.98,Amex_CreditCard,True,CreditCard
+2025-08-18,Card Charges paid with Points,26.26,Debit,card charges paid with points,Other,26.26,₹26.26,Amex_CreditCard,True,CreditCard
+2025-08-18,Card Charges paid with Points,1405.5,Debit,card charges paid with points,Other,1405.5,"₹1,405.50",Amex_CreditCard,True,CreditCard
+2025-08-18,Card Charges paid with Points,220.75,Debit,card charges paid with points,Other,220.75,₹220.75,Amex_CreditCard,True,CreditCard
+2025-08-18,Card Charges paid with Points,1098.5,Debit,card charges paid with points,Other,1098.5,"₹1,098.50",Amex_CreditCard,True,CreditCard
+2025-08-28,GST/IGST@18%,105.63,Debit,gstigst18,Other,105.63,₹105.63,Amex_CreditCard,True,CreditCard
+2025-08-28,FINANCE CHARGES,586.82,Debit,finance charges,Other,586.82,₹586.82,Amex_CreditCard,True,CreditCard
+2025-03-08,of,5.0,Debit,of,Other,5.0,₹5.00,Amex_CreditCard,True,CreditCard
+2025-04-08,of,5.0,Debit,of,Other,5.0,₹5.00,Amex_CreditCard,True,CreditCard
+2025-05-08,of,5.0,Debit,of,Other,5.0,₹5.00,Amex_CreditCard,True,CreditCard

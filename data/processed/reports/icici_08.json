@@ -1,0 +1,19 @@
+{
+  "bank": {
+    "total_income": 0.0,
+    "total_expenses": 0.0,
+    "total_savings": 0.0,
+    "net_cash_flow": 0.0,
+    "monthly_breakdown": {
+      "Income": {},
+      "Expense": {}
+    },
+    "top_5_spending_categories": {},
+    "recurring_payments": {}
+  },
+  "credit_card": {
+    "total_expenses": 103699.27,
+    "total_payments": -106197.1,
+    "outstanding": 209896.37
+  }
+}

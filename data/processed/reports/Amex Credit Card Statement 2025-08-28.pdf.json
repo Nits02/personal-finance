@@ -1,0 +1,18 @@
+{
+  "income": 0.0,
+  "expenses": 115941.1,
+  "savings": -115941.1,
+  "monthly": {
+    "2025-08": 115941.09999999999
+  },
+  "top_spending_categories": {
+    "Other": 110963.09999999999,
+    "Shopping": 3307.0,
+    "Travel": 1671.0
+  },
+  "recurring_payments": {
+    "Card Charges paid with Points | Other": 6,
+    "Paytm*UBERINDIASYSTEMSP Noida | Travel": 6,
+    "of | Other": 5
+  }
+}

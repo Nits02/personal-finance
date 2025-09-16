@@ -1,0 +1,20 @@
+{
+  "bank": {
+    "total_income": 0.0,
+    "total_expenses": 0.0,
+    "total_savings": 0.0,
+    "net_cash_flow": 0.0,
+    "monthly_breakdown": {},
+    "top_5_spending_categories": {},
+    "recurring_payments": {}
+  },
+  "credit_card": {
+    "total_spend_by_category": {
+      "Other": 110963.09999999999,
+      "Shopping": 3307.0,
+      "Travel": 1671.0
+    },
+    "payments": 0.0,
+    "average_monthly_spend": 14492.64
+  }
+}
