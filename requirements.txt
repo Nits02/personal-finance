@@ -5,6 +5,3 @@ pdfplumber
 jupyter
 pytest
 streamlit
-
-
-plotly
