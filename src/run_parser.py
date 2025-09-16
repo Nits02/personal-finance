@@ -1,10 +1,10 @@
 
 import os
-from logger import get_logger
-from config_loader import get_config
-from io_utils import save_to_processed
+from src.logger import get_logger
+from src.config_loader import get_config
+from src.io_utils import save_to_processed
 import json
-import analyzer
+import src.analyzer as analyzer
 
 # Folder-based mapping: (bank/type) -> parser class
 
@@ -12,7 +12,8 @@ import analyzer
 
 def parse_statement(file_path):
     # This function is now deprecated; use src/parser.py:parse_statement instead
-    from parser import parse_statement as main_parse_statement
+    from src.parser import parse_statement as main_parse_statement
+    from src.parser import parse_statement as main_parse_statement
     return main_parse_statement(file_path)
 
 if __name__ == "__main__":
@@ -81,7 +82,7 @@ if __name__ == "__main__":
                     df, metadata = parse_statement(f)
                     if df is not None and not df.empty:
                         # Standardize before saving
-                        from standardizer import standardize_transactions
+                        from src.standardizer import standardize_transactions
                         df = standardize_transactions(df, metadata)
                         dfs.append(df)
                         logger.info(f"Parsed and standardized {len(df)} transactions from {f} | Metadata: {metadata}")
@@ -118,7 +119,7 @@ if __name__ == "__main__":
                 print(df)
             else:
                 # Standardize before saving
-                from standardizer import standardize_transactions
+                from src.standardizer import standardize_transactions
                 df = standardize_transactions(df, metadata)
                 logger.info(f"Parsed and standardized {len(df)} transactions from {file_path} | Metadata: {metadata}")
                 source = metadata.get('source', 'Unknown')

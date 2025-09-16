@@ -1,7 +1,9 @@
 import re
 import pandas as pd
 from .base_parser import BaseParser
-from logger import get_logger
+from src.logger import get_logger
+
+from src.standardizer import standardize_transactions
 
 class AxisBankStatementParser(BaseParser):
     """Parser for Axis Bank statements"""
@@ -106,6 +108,5 @@ class AxisBankStatementParser(BaseParser):
                 return 'Payment'
             return 'Other'
         df['category'] = df['description_clean'].apply(categorize)
-        from standardizer import standardize_transactions
         df = standardize_transactions(df, source="Axis Bank", is_credit_card=False)
         return df

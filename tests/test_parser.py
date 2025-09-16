@@ -1,10 +1,10 @@
 import pytest
 import pandas as pd
-from parser import parse_statement
-from parsers.icici_credit_card_parser import ICICICreditCardParser
-from parsers.amex_credit_card_parser import AmexCreditCardParser
-from parsers.axis_bank_statement_parser import AxisBankStatementParser
-from parsers.icici_savings_bank_statement_parser import ICICISavingsBankStatementParser
+from src.parser import parse_statement
+from src.parsers.icici_credit_card_parser import ICICICreditCardParser
+from src.parsers.amex_credit_card_parser import AmexCreditCardParser
+from src.parsers.axis_bank_statement_parser import AxisBankStatementParser
+from src.parsers.icici_savings_bank_statement_parser import ICICISavingsBankStatementParser
 # from parsers.upi_statement_parser import UPIStatementParser
 
 sample_text = "10-08-2025 Zomato Order 500.00 Dr. 12345678901"

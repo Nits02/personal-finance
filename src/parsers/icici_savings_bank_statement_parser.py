@@ -2,13 +2,15 @@
 import re
 import pandas as pd
 import os
+
 try:
     from .base_parser import BaseParser
 except ImportError:
     from src.parsers.base_parser import BaseParser
 
 # Always import get_logger at module level, never conditionally assign
-from logger import get_logger
+from src.logger import get_logger
+from src.standardizer import standardize_transactions
 
 class ICICISavingsBankStatementParser(BaseParser):
     """Parser for ICICI Savings Account statements"""
@@ -139,8 +141,9 @@ class ICICISavingsBankStatementParser(BaseParser):
         df['category'] = df['description_clean'].apply(categorize)
         # Standardize output schema
         try:
-            from standardizer import standardize_transactions
-            df = standardize_transactions(df, source="ICICI Bank", is_credit_card=False)
+
+            metadata = {"source": "ICICI Bank", "is_credit_card": False}
+            df = standardize_transactions(df, metadata)
         except ImportError:
             pass
         return df

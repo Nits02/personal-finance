@@ -1278,5 +1278,955 @@
     "date_max": null,
     "saved_at": "2025-09-16T11:00:05.408411",
     "original_path": null
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T16:05:41.422713",
+    "original_path": null
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T16:05:46.110275",
+    "original_path": null
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T16:05:48.470154",
+    "original_path": null
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T16:05:50.850248",
+    "original_path": null
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T16:05:52.382945",
+    "original_path": null
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T16:05:54.933495",
+    "original_path": null
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T16:05:57.292724",
+    "original_path": null
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T16:05:59.149114",
+    "original_path": null
+  },
+  {
+    "filename": "08_combined.csv.csv",
+    "source": "Combined",
+    "rows": 289,
+    "amount_sum": 12337508.319999998,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T16:06:02.120211",
+    "original_path": null
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T16:06:04.440734",
+    "original_path": null
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T16:06:06.766848",
+    "original_path": null
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T16:06:09.122119",
+    "original_path": null
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T16:06:10.742051",
+    "original_path": null
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:31:25.394281",
+    "original_path": null
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:31:28.203250",
+    "original_path": null
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:31:30.839257",
+    "original_path": null
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:31:32.999210",
+    "original_path": null
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:32:24.461730",
+    "original_path": null
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:32:27.270349",
+    "original_path": null
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:32:29.703036",
+    "original_path": null
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:32:32.062947",
+    "original_path": null
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:35:07.278582",
+    "original_path": null
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:44:29.767127",
+    "original_path": null
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:44:32.707890",
+    "original_path": null
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:44:36.028635",
+    "original_path": null
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:44:39.235033",
+    "original_path": null
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:44:51.264666",
+    "original_path": null
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:44:53.594201",
+    "original_path": null
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:44:55.616794",
+    "original_path": null
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T19:44:57.722126",
+    "original_path": null
+  },
+  {
+    "filename": "08_combined.csv.csv",
+    "source": "Combined",
+    "rows": 289,
+    "amount_sum": 12337508.319999998,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:18:05.282281",
+    "original_path": null
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:19:06.370685",
+    "original_path": null
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:19:09.509108",
+    "original_path": null
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:19:12.576736",
+    "original_path": null
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:19:15.312911",
+    "original_path": null
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:20:35.873912",
+    "original_path": null
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:20:38.847822",
+    "original_path": null
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:20:41.934551",
+    "original_path": null
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:20:45.695841",
+    "original_path": null
+  },
+  {
+    "filename": "08_combined.csv.csv",
+    "source": "Combined",
+    "rows": 289,
+    "amount_sum": 12337508.319999998,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:21:05.113599",
+    "original_path": null
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:21:08.032971",
+    "original_path": null
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:21:11.231908",
+    "original_path": null
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:21:13.559814",
+    "original_path": null
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:21:15.550686",
+    "original_path": null
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:50:31.212635",
+    "original_path": "data/temp_raw/ICICI Credit Card Statement.pdf"
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:51:00.981697",
+    "original_path": "data/temp_raw/ICICI Credit Card Statement.pdf"
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:51:01.517985",
+    "original_path": "data/temp_raw/ICICI August Statement.pdf"
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:51:21.892576",
+    "original_path": "data/temp_raw/ICICI Credit Card Statement.pdf"
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:51:22.427226",
+    "original_path": "data/temp_raw/ICICI August Statement.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:51:22.915594",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:52:28.511745",
+    "original_path": "data/temp_raw/ICICI Credit Card Statement.pdf"
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:52:29.043028",
+    "original_path": "data/temp_raw/ICICI August Statement.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:52:29.518313",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:52:29.864713",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:59:07.963883",
+    "original_path": "data/temp_raw/ICICI August Statement.pdf"
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:59:08.155195",
+    "original_path": "data/temp_raw/ICICI Credit Card Statement.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:59:08.653010",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:59:08.974257",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "combined_statements.csv.csv",
+    "source": "Combined",
+    "rows": 289,
+    "amount_sum": 12337508.32,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T20:59:09.031222",
+    "original_path": null
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:17:51.940375",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:18:01.915372",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:18:02.606667",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:18:38.235497",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:18:38.706279",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:18:50.702897",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:18:51.198885",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:18:51.505569",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:18:52.007230",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:19:20.697426",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:19:21.179309",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:19:21.654916",
+    "original_path": "data/temp_raw/ICICI August Statement.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:19:22.013406",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:19:22.495451",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:19:22.622771",
+    "original_path": "data/temp_raw/ICICI Credit Card Statement.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:20:44.961202",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:20:45.435824",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:20:45.904155",
+    "original_path": "data/temp_raw/ICICI August Statement.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:20:46.245978",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:20:46.716038",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:20:46.841963",
+    "original_path": "data/temp_raw/ICICI Credit Card Statement.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:00.822524",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:01.302254",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:01.585204",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:02.094940",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:02.536671",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:02.706384",
+    "original_path": "data/temp_raw/ICICI Credit Card Statement.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:02.985171",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:03.487140",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:03.948073",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:04.060304",
+    "original_path": "data/temp_raw/ICICI Credit Card Statement.pdf"
+  },
+  {
+    "filename": "icici_august_statement.pdf.csv",
+    "source": "icici_savings",
+    "rows": 131,
+    "amount_sum": 12156624.049999999,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:22.096470",
+    "original_path": "data/temp_raw/ICICI August Statement.pdf"
+  },
+  {
+    "filename": "amex_credit_card_statement_2025-08-28.pdf.csv",
+    "source": "Amex_CreditCard",
+    "rows": 28,
+    "amount_sum": 115941.1,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:22.436976",
+    "original_path": "data/temp_raw/Amex Credit Card Statement 2025-08-28.pdf"
+  },
+  {
+    "filename": "axis_bank_statement_for_august_2025.pdf.csv",
+    "source": "axis",
+    "rows": 104,
+    "amount_sum": 67441.0,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:22.891727",
+    "original_path": "data/temp_raw/AXIS BANK Statement for August 2025.pdf"
+  },
+  {
+    "filename": "icici_credit_card_statement.pdf.csv",
+    "source": "ICICI_CreditCard",
+    "rows": 26,
+    "amount_sum": -2497.8300000000017,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:23.071271",
+    "original_path": "data/temp_raw/ICICI Credit Card Statement.pdf"
+  },
+  {
+    "filename": "combined_statements.csv.csv",
+    "source": "Combined",
+    "rows": 289,
+    "amount_sum": 12337508.319999998,
+    "date_min": null,
+    "date_max": null,
+    "saved_at": "2025-09-16T21:21:23.123207",
+    "original_path": null
   }
 ]

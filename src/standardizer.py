@@ -1,6 +1,6 @@
 
 # Always import get_logger at module level, never conditionally assign
-from logger import get_logger
+from src.logger import get_logger
 
 import pandas as pd
 import re

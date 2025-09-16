@@ -2,11 +2,11 @@
 # --- Imports and global variables ---
 import os
 import re
-from logger import get_logger
-from parsers.icici_credit_card_parser import ICICICreditCardParser
-from parsers.icici_savings_bank_statement_parser import ICICISavingsBankStatementParser
-from parsers.axis_bank_statement_parser import AxisBankStatementParser
-from parsers.amex_credit_card_parser import AmexCreditCardParser
+from src.logger import get_logger
+from src.parsers.icici_credit_card_parser import ICICICreditCardParser
+from src.parsers.icici_savings_bank_statement_parser import ICICISavingsBankStatementParser
+from src.parsers.axis_bank_statement_parser import AxisBankStatementParser
+from src.parsers.amex_credit_card_parser import AmexCreditCardParser
 # from parsers.upi_statement_parser import UPIStatementParser  # Disabled: not available
 # from parsers.hdfc_credit_card_parser import HDFCCreditCardParser  # Placeholder for future
 # from parsers.sbi_bank_statement_parser import SBIBankStatementParser  # Placeholder for future
@@ -59,6 +59,8 @@ def parse_statement(file_path):
                     "is_credit_card": "credit_card" in bank_key,
                     "parser": parser_cls.__name__
                 }
+            from src.standardizer import standardize_transactions
+            df = standardize_transactions(df, metadata)
             logger.info(f"Parsed {len(df)} transactions from {file_path} using {parser_cls.__name__}")
             return df, metadata
         except Exception as e:

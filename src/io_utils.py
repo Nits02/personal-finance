@@ -3,7 +3,7 @@ import os
 import pandas as pd
 import json
 from datetime import datetime
-from logger import get_logger
+from src.logger import get_logger
 
 
 def save_to_processed(df, source, filename, format='csv', processed_dir=None, original_path=None):

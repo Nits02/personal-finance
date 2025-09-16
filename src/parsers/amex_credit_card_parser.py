@@ -1,4 +1,6 @@
-from logger import get_logger
+
+from src.standardizer import standardize_transactions
+from src.logger import get_logger
 
 import re
 import pandas as pd
@@ -96,6 +98,7 @@ class AmexCreditCardParser(BaseParser):
                 return 'Food'
             if 'bookmyshow' in desc:
                 return 'Entertainment'
+
             if 'bata' in desc:
                 return 'Shopping'
             if 'gwalia sweets' in desc:
@@ -111,6 +114,6 @@ class AmexCreditCardParser(BaseParser):
             'is_credit_card': True,
             'parser': 'AmexCreditCardParser'
         }
-        from standardizer import standardize_transactions
+
         df = standardize_transactions(df, metadata)
         return df, metadata

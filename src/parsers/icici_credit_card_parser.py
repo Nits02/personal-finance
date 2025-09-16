@@ -1,7 +1,9 @@
-from logger import get_logger
+from src.logger import get_logger
 import re
 import pandas as pd
 from .base_parser import BaseParser
+
+from src.standardizer import standardize_transactions
 
 class ICICICreditCardParser(BaseParser):
     """Parser for ICICI Credit Card statements"""
@@ -93,11 +95,12 @@ class ICICICreditCardParser(BaseParser):
                 return 'Payment'
             return 'Other'
         df['category'] = df['description_clean'].apply(categorize)
-        from standardizer import standardize_transactions
-        df = standardize_transactions(df, source="ICICI Credit Card", is_credit_card=True)
+
+
         metadata = {
             'source': 'ICICI_CreditCard',
             'is_credit_card': True,
             'parser': 'ICICICreditCardParser'
         }
+        df = standardize_transactions(df, metadata)
         return df, metadata
